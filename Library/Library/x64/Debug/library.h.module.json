@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Library.h.obj",
+            "outputs": [
+                "C:\\Users\\kubis\\source\\repos\\Library\\Library\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\kubis\\source\\repos\\Library\\Library\\x64\\Debug\\Library.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Library.h",
+                    "source-path": "c:\\users\\kubis\\source\\repos\\library\\library\\library.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
